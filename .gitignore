@@ -1,0 +1,10 @@
+# Byte‐compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Editor or OS files
+*.swp
+*.swo
+.DS_Store
+.vscode/
